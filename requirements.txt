@@ -1,0 +1,10 @@
+# AI Requirement Validator for Software Development
+# ==================================================
+# This project is built entirely using the Python 3 Standard Library:
+#   - tkinter (GUI interface)
+#   - re (regular expressions for rule evaluation)
+#   - csv (reading test datasets & saving results)
+#   - os, sys, datetime (system and timestamp utilities)
+#
+# NO external third-party packages or AI/ML APIs are required.
+# The application runs offline on Python 3.8+ installations.
